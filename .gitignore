@@ -1,0 +1,8 @@
+# Defaut
+.vscode
+.idea
+
+# OS's
+.DS_Store
+thumbs.db
+desktop.ini
